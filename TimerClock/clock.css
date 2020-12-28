@@ -4,3 +4,6 @@ body{
   background-attachment: fixed;
   background-size: cover;
 }
+#clock{
+  font-weight: bolder;
+}
